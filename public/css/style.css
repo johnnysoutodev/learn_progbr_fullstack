@@ -85,3 +85,14 @@ html {
 }
 
 /* Então não é 80%, é 80% de 80%, portanto, não é 80%. Kkkk */
+
+#base {
+    height: 10px;
+    background-color: red;
+}
+
+#sub {
+    background-color: blue;
+    color: white;
+    padding-top: 10px;
+}
