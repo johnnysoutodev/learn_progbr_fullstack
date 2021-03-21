@@ -225,3 +225,17 @@ html {
 .texto-fonte-person {
     font-family: MinhaFonte;
 }
+
+.links {
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.links:hover {
+    background-color: yellow;
+    color: black;
+}
