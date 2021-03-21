@@ -190,5 +190,9 @@ html {
 }
 
 .texto-riscado {
-    text-decoration: overline;
+    text-decoration: line-through;
+}
+
+.texto-sublinhado {
+    text-decoration: underline;
 }
