@@ -124,8 +124,26 @@ html {
 .box-model {
     background-color: red;
     padding: 5px;
+    border: 5px solid blue;
+    margin: 10px;
 }
 
 .content {
     background-color: #ddd;
+    border: 5px solid green;
+    margin: 5px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 10px solid blue;
+    padding: 10px;
+}
+
+.square2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
 }
