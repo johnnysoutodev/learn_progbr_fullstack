@@ -239,3 +239,11 @@ html {
     background-color: yellow;
     color: black;
 }
+
+ul {
+    list-style-type: lower-alpha;
+}
+
+ol {
+    list-style-type: decimal;
+}
