@@ -212,3 +212,7 @@ html {
 .texto-sem-serifa {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.texto-italico {
+    font-style: italic;
+}
