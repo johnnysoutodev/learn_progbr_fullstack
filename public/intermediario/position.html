@@ -9,12 +9,24 @@
             font-size: 1.2em;
         }
 
+        .static {
+            position: static;
+        }
+
+        .relative {
+            position: relative;
+        }
+
+        .fixed {
+            position: fixed;
+            right: 10px;
+            bottom: 10px;
+        }
+
         .quadrado {
             width: 100px;
             height: 100px;
             display: inline-block;
-            position: static;
-            margin-bottom: 10px;
         }
 
         .bg-blue {
@@ -24,16 +36,26 @@
         .bg-red {
             background-color: red;
         }
+
+        .bg-green {
+            background-color: green;
+        }
+
+        .bg-yellow {
+            background-color: yellow;
+        }
+
+        .bg-black {
+            background-color: black;
+        }
     </style>
     <title>Position</title>
 </head>
 <body>
-    <div class="quadrado bg-blue">
+    <div class="quadrado bg-blue"></div>
 
-    </div>
+    <div class="quadrado bg-red"></div>
 
-    <div class="quadrado bg-red">
-
-    </div>
+    <div class="quadrado bg-black fixed"></div>
 </body>
 </html>
