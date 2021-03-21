@@ -13,3 +13,8 @@
 .texto_verde {
     color: green;
 }
+
+div {
+    background-color: red;
+    color: white;
+}
