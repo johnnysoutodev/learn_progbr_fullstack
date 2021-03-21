@@ -204,3 +204,11 @@ html {
 .texto-sombreado {
     text-shadow: 1px 1px #bbb;
 }
+
+.texto-com-serifa {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.texto-sem-serifa {
+    font-family: Arial, Helvetica, sans-serif;
+}
