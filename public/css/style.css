@@ -153,6 +153,22 @@ html {
     color: red;
 }
 
+.azul {
+    color: blue;
+}
+
+.amarelo {
+    color: yellow;
+}
+
+.preto {
+    color: black;
+}
+
+.verde {
+    color: green;
+}
+
 .texto-justificado {
     text-align: justify;
 }
@@ -167,4 +183,8 @@ html {
 
 .texto-caixa-baixa {
     text-transform: lowercase;
+}
+
+.texto-identado {
+    text-indent: 30px;
 }
