@@ -1,0 +1,15 @@
+/* style.css */
+html, body {
+    margin: 0 auto;
+    padding: 0;
+    border: 0;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.card {
+    background-color: white;
+}
