@@ -114,7 +114,7 @@ html {
 }
 
 .margem {
-    margin: 10px;
+    margin: 15px;
 }
 
 .espacamento {
@@ -159,4 +159,12 @@ html {
 
 .texto-centralizado {
     text-align: center;
+}
+
+.texto-caixa-alta {
+    text-transform: uppercase;
+}
+
+.texto-caixa-baixa {
+    text-transform: lowercase;
 }
