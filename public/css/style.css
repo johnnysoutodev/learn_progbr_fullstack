@@ -196,3 +196,11 @@ html {
 .texto-sublinhado {
     text-decoration: underline;
 }
+
+.texto-muito-espacado {
+    letter-spacing: 20px;
+}
+
+.texto-sombreado {
+    text-shadow: 1px 1px #bbb;
+}
