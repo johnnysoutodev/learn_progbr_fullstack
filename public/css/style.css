@@ -1,3 +1,15 @@
-p:nth-child(3) {
+/* p:nth-child(3) {
     color: red
+} */
+
+#principal {
+    color: red;
+}
+
+#titulo {
+    color: blue;
+}
+
+.texto_verde {
+    color: green;
 }
