@@ -148,3 +148,15 @@ html {
     height: 100px;
     background-color: yellow;
 }
+
+.vermelho {
+    color: red;
+}
+
+.texto-justificado {
+    text-align: justify;
+}
+
+.texto-centralizado {
+    text-align: center;
+}
