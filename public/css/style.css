@@ -66,3 +66,11 @@
     width: 1pc;
     height: 1pc;
 }
+
+.container {
+    font-size: 20px;
+}
+
+.inside {
+    font-size: 1em;
+}
