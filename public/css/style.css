@@ -2,6 +2,11 @@
     color: red
 } */
 
+@font-face {
+    font-family: MinhaFonte;
+    src: url(../fonts/Roboto/Roboto-Regular.ttf);
+  }
+
 body {
     margin: 0;
     padding: 0;
@@ -215,4 +220,8 @@ html {
 
 .texto-italico {
     font-style: italic;
+}
+
+.texto-fonte-person {
+    font-family: MinhaFonte;
 }
