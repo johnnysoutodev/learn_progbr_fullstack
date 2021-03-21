@@ -96,3 +96,17 @@ html {
     color: white;
     padding-top: 10px;
 }
+
+.borda {
+    border: 3px solid red;
+}
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.margem {
+    margin: 10px;
+}
