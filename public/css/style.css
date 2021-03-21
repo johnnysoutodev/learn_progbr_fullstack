@@ -188,3 +188,7 @@ html {
 .texto-identado {
     text-indent: 30px;
 }
+
+.texto-riscado {
+    text-decoration: overline;
+}
