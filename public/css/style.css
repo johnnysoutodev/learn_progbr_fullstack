@@ -74,6 +74,7 @@ html {
 .container {
     font-size: 25px;
     width: 50vw;
+    height: 10vh;
     background-color: red;
 }
 
