@@ -246,4 +246,9 @@ ul {
 
 ol {
     list-style-type: decimal;
+    list-style-position: inside;
+}
+
+li {
+    border: 1px solid #000;
 }
